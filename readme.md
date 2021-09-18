@@ -11,7 +11,7 @@ Actually this library is on progress, if you got any idea or problem, use issues
 
 Just me for the moment.
 
-##Examples
+## Examples
 
 Actually empty, this lib is not finished
 
@@ -32,4 +32,4 @@ Download last release : [Download link (empty)](#)
 ## License
 
 
-This project is on ``GPL-3 `` - See the [LICENCE.MD](https://github.com/Arinonia/MC-Auth/LICENCE.MD) file for more information.
+This project is on ``GPL-3 `` - See the [LICENCE.MD](https://github.com/Arinonia/MC-Auth/blob/main/LICENCE.MD) file for more information.
